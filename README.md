@@ -1,4 +1,4 @@
-# Free-APIs [![Run tests](https://github.com/HackWeiser360/Free-APIs/workflows/Run%20tests/badge.svg)](https://github.com/HackWeiser360/Free-APIs/actions?query=workflow%3A%22Run+tests%22) [![Validate links](https://github.com/HackWeiser360/Free-APIs/workflows/Validate%20links/badge.svg?branch=master)](https://github.com/HackWeiser360/Free-APIs/actions?query=workflow%3A%22Validate+links%22)
+# Free-APIs
 
 A collective list of free APIs for use in software and web development.
 
